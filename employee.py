@@ -1,8 +1,8 @@
 """Employee pay calculator."""
 """ENTER YOUR SOLUTION HERE!"""
-
+ import
 class Employee:
-    def __init__(self, name):
+    def __init__(self, name,):
         self.name = name
 
     def get_pay(self):
@@ -29,3 +29,5 @@ robbie = Employee('Robbie')
 
 # Ariel works on a contract of 120 hours at 30/hour and receives a bonus commission of 600.  Their total pay is 4200.
 ariel = Employee('Ariel')
+
+print(billie)
